@@ -1,16 +1,14 @@
-### Hi there 👋
+#Hello World 👋!
 
-<!--
-**shivamsk/shivamsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Siva Krishna, a developer interested in Blockchain Development. 
 
-Here are some ideas to get you started:
+### About Me 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web based and Data Intensive applications 
+- 🌱 I’m currently learning Blockchain
+- 👯 I’m looking to collaborate on Blockchain Projects
+- 📫 How to reach me: <a href="mailto:msk.iitr@gmail.com">msk.iitr@gmail.com</a>
+
+
+
+
